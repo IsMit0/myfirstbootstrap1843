@@ -42,3 +42,7 @@ table {
 .container {
 max-width:800px
 }
+
+.top{
+  padding: top 40px;
+}
